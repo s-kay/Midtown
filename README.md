@@ -1,2 +1,3 @@
 # Midtown
-Midtown contains a java file
+Midtown contains a simple java file that checks for vacant rooms in a hotel.
+
